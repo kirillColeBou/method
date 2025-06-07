@@ -31,7 +31,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\prac\\method\\prac\\prac.csproj": {
+                "projectPath": "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\prac\\method\\prac\\prac.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

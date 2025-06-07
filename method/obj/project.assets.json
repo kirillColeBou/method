@@ -575,6 +575,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\prac\\method\\prac\\prac.csproj",
       "Microsoft.EntityFrameworkCore >= 5.0.17"
     ]
   },
@@ -609,7 +610,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\prac\\method\\prac\\prac.csproj": {
+              "projectPath": "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\prac\\method\\prac\\prac.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -652,5 +657,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\kiril\\OneDrive\\Рабочий стол\\prac\\method\\prac\\prac.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\kiril\\OneDrive\\Рабочий стол\\prac\\method\\prac\\prac.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
